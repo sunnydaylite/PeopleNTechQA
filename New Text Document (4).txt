@@ -1,0 +1,50 @@
+payment processing system:
+Allow users various methods such as 
+
+Credit Card,
+
+Debit Card and
+
+Paypal.
+
+
+Rulse:
+Payment Method 	Limit 	Authorization	 Fee Applicable
+
+Credit Card		$500			yes			Yes
+
+Debit card 		$200			yes			No
+
+Paypal		$1000			No 			Yes
+
+
+
+Credit Card:
+				T1	T2	T3	T4
+
+	Limit:		T	F	T	T
+
+	Authorization:	T	N/A	F	T
+
+	Fee Applicable:	T	N/a	F	F
+
+
+Debit Card:			T1 	T2	T3	
+
+	Limit:		T	F	T	
+
+	Authorization:	T	N/A	F	
+
+	Fee Applicable:	N/A	N/a	T	
+
+
+
+Paypal:
+	Credit Card:
+				T1	T2	T3	T4
+
+	Limit:		T	F	T	T
+
+	Authorization:	T	N/A	F	T
+
+	Fee Applicable:	T	N/a	F	F

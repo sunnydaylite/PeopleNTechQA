@@ -1,0 +1,27 @@
+1. condition true younger than 25, pay higher premium
+2. condition false more than 25, pay less
+3. condition true less than 2 years experience, payy higher premium
+4. condition false more than 2 years experience, pay less
+5. experience range 0 to 10, 
+
+
+
+		Expected Result
+		High premium
+
+T T T			High premium
+T T F			Low premium	
+T F T
+T F F
+F F T
+F T F
+F T T 
+F F F
+
+1. verify the calculation for driver who is younger than 25 less than 2 years experienace and car value below the threashold.
+2. verify the calcilatopm for driver who is younger than 25 less than 2 years experience and car value is not below the thresahod.
+3.verify the calculation for driver who is younger than 25 that 
+
+
+ 
+1. verify the flight distance less than 500, if the flight distance is between 500 and 1000 miles and the flight distance is greated than 100 miles.

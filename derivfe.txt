@@ -1,0 +1,30 @@
+	
+
+Markets page:
+	
+
+Settings page:
+
+	profile:
+	1. name field a number ar special character diye update nicche.
+	2. Date of birth future a update nicche 2043
+	3. phone number update hoye jacche small digits, letters ar special character diyei niyei
+	4. non valid or non existing email chara update hoye jacche, eevn number diyeo email update hocche
+	5. zip code number chara alphabet diyei update nicche.
+	6. website shudu number niyei update hoye jacche.
+	
+	Security:
+	1. shudu alphabet, number, special character diyei password nicche
+	2. verify you are a human box a 'e and + sign' input ney
+
+
+Contact Page:
+	1. Name a number and special charater diyeo email send hocche.
+	2. wrong or non existing email diye message send hocche.
+	3. phone number box a koyekta digits and alphabet diye message send hocche.
+	4. Contact us page has error.
+
+
+UI BUG:
+	1. page responsive na.
+	2. Image is too big

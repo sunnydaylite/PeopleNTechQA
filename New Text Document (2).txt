@@ -1,0 +1,13 @@
+1. Sun1@  Expected: Error for short length of characters
+
+2. sunny1$a Expected: Error No Uppercase letter
+
+3. SUNNY1&A Expected: Error no lowercase letters
+
+4. SunnyTest24 Expected: Error No Special Character
+
+5. SunnyTest@* Expected: Error no numbers 
+
+6. SunnyTest#a1@gmail.com Expected: Error -> email address
+
+7. 
