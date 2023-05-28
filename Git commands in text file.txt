@@ -1,0 +1,16 @@
+For new Project link with Repo:
+⦁	git init
+⦁	git remote add origin <url>
+
+
+Before push:
+⦁	git add .
+⦁	git commit -m "Created file 1" //("Updated file 1) [here file/folder is the name and it could be anything instead of file 1]
+⦁	git push origin master / (git push origin branches)
+
+
+Branch:
+git branch <branch name>
+git checkout <branch name> (to change the branch from one to another)
+git checkout -b <branch name> (tells  Git  which  branch or commit you want your changes applied)
+git branch (to see all the branch names)
